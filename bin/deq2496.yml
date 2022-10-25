@@ -1,0 +1,15 @@
+# (i) Find your 'midi_device' by running:
+#   >>> import mido
+#   >>> mido.get_output_names()
+#   ['ESI-ROMIO:ESI-ROMIO MIDI 1 28:0', ... ... ...
+#   >>>
+
+midi_device: 'ESI-ROMIO'
+
+contrast_min:  2
+contrast_max:  9
+
+default:
+    screen:    'rta'
+    contrast:   9
+
