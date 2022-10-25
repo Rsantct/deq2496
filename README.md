@@ -12,7 +12,7 @@ To communicate with the device, you need a In/Out MIDI interface.
 
 ## Software
 
-Python3 modules:
+**`Python3`** modules:
 
       rtmidi
       mido
