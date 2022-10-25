@@ -6,10 +6,6 @@ Currently, I use th Ultracurve just as an RTA and level meter to monitor my PC b
 
 This is just an experimental tool, with very basic features ;-)
 
-## Hardware
-
-To communicate with the device, you need a In/Out MIDI interface.
-
 ## Software
 
 **`Python3`** modules:
@@ -19,4 +15,11 @@ To communicate with the device, you need a In/Out MIDI interface.
       yaml
       numpy
       matplotlib
+
+## Hardware
+
+To communicate with the device, you need a In/Out MIDI interface.
+
+<img src="./img/M-Audio%20USM%20MIDI%20interface.jpg" style="width:400px;">
+
 
